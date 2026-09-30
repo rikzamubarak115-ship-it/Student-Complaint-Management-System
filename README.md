@@ -26,7 +26,7 @@ Canva Prototype
 
 The initial UI/UX prototype of the Student Complaint Management System has been designed using Canva.
 
-View Prototype:
+View Prototype:https://canva.link/akh5khyv8vp7upx
 
 Current Progress
 
